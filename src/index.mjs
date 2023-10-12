@@ -8,3 +8,18 @@ document.getElementById("app").innerHTML = `
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
 </div>
 `;
+
+//var val1 = "var変数";
+//console.log(val1);
+
+//val1 = "変数を上書き";
+//console.log(val1);
+
+//var val1 = "var変数を再宣言";
+//console.log(val1);
+
+let val2 = "let変数";
+console.log(val2);
+
+val2 = "let変数上書き";
+console.log(val2);
