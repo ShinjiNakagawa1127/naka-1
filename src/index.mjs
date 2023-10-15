@@ -21,5 +21,22 @@ document.getElementById("app").innerHTML = `
 let val2 = "let変数";
 console.log(val2);
 
+//let val2 = "let変数を再宣言"
+
 val2 = "let変数上書き";
 console.log(val2);
+
+const val3 = "const変数"
+console.log(val3);
+
+val3 = "const変数を上書き";
+
+//const val3 = "const変数を再宣言"；
+
+const val4 = {
+  name = "じゃけえ",
+  age = 28,
+};
+
+console.log(val4);
+  
